@@ -1,0 +1,5 @@
+djvenv*
+build*
+dist*
+Longscreenshot.spec
+Longscreenshot.egg-info*
